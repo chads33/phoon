@@ -1,8 +1,8 @@
 # Makefile for phoon
 
-BINDIR =	/usr/bin
-MANDIR =	/usr/share/man/man1
-INSTALL=	ginstall
+BINDIR =	/usr/local/bin
+MANDIR =	/usr/local/share/man/man1
+INSTALL=	install
 
 DEFINES =	-DOS_BSD
 #DEFINES =	-DOS_SYSV
