@@ -43,4 +43,4 @@ extern void phasehunt2( double sdate, double phases[2], double which[2] );
  */
 extern double phase( double pdate, double* pphase, double* mage, double* dist, double* angdia, double* sudist, double* suangdia );
 
-#endif _ASTRO_H_
+#endif // _ASTRO_H_
